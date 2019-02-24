@@ -1,0 +1,10 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const ADD_POST = 'ADD_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const FETCH_POST = 'FETCH_POST'; 
+export const ADD_FEEDBACK = 'ADD_FEEDBACK';
+export const DELETE_FEEDBACK = 'DELETE_FEEDBACK';
+export const FETCH_FEEDBACK = 'FETCH_FEEDBACK'; 
+export const LOADED = 'LOADED';
+export const LOADING = 'LOADING';
