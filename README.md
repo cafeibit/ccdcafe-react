@@ -2,7 +2,7 @@
 
 This is the code for the 'CCD CAFE CO., LTD' application that is built through the Node,Express,MongoDB and Angular more.
 
-"CCD CAFE" Web application is developed by Injoy Guo, and develop the web applications end-to-end as the full stack developer.
+"CCD CAFE" Web application is developed by cafeibit, and develop the web applications end-to-end as the full stack developer.
 
 ## The application at various stages
 
